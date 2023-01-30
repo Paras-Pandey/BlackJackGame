@@ -1,0 +1,27 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    background-image: url("../learn-javascript/3. Build a Blackjack game/12. Add basic styling/images/table.png");
+    font-weight: bold;
+    background-size: cover;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    margin: 2px;
+    color: #016f32;
+    background-color: goldenrod;
+    width: 150px;
+    padding: 5px 0px 5px;
+    border: none;
+    font-weight: bold;
+    border-radius: 2px;
+}
